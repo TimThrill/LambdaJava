@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="cheetah_main" target="1.8" />
       <module name="cheetah_test" target="1.8" />
+      <module name="LambdaJava_main" target="1.8" />
+      <module name="LambdaJava_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

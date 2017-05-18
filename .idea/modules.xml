@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cheetah.iml" filepath="$PROJECT_DIR$/.idea/modules/cheetah.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cheetah_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cheetah_main.iml" group="cheetah" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cheetah_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cheetah_test.iml" group="cheetah" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LambdaJava.iml" filepath="$PROJECT_DIR$/.idea/modules/LambdaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LambdaJava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LambdaJava_main.iml" group="LambdaJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LambdaJava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LambdaJava_test.iml" group="LambdaJava" />
     </modules>
   </component>
 </project>
